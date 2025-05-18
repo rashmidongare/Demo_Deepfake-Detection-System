@@ -31,7 +31,9 @@ Responsive, accessible UI built with shadcn/ui and Tailwind CSS
 Scalable and performant frontend using Vite and React
 
 📷 Screenshots
-![Screenshot 2025-05-18 124122](https://github.com/user-attachments/assets/26667084-580f-4e10-bd67-2b4619b5716a)
+
+
+![Screenshot 2025-05-18 124803](https://github.com/user-attachments/assets/5790f9ec-94f7-4ea4-b4bc-ed509c09e227)
 
 ![Screenshot 2025-05-18 124350](https://github.com/user-attachments/assets/034b374e-11ac-41df-84c6-6ac88d63b981)
 ![Screenshot 2025-05-18 124438](https://github.com/user-attachments/assets/25883e3c-4c10-4b76-84cb-cc4fb5660fe6)
